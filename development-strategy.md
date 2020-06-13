@@ -8,7 +8,7 @@ write a short description of your project:
 
 ## Wireframe
 
-![wireframe](https://github.com/Meowri/acme-template/blob/master/wireframe.jpg?raw=true)
+![wireframe](./wireframe.jpg)
 
 ## 0. Set-Up
 
