@@ -8,7 +8,7 @@ write a short description of your project:
 
 ## Wireframe
 
-![wireframe](./wireframe.jpg)
+![wireframe](./wireframe.gif)
 
 ## 0. Set-Up
 
